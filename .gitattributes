@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.woff2 binary
+
+# El script que genera los SVG no es código del perfil: no cuenta en "Top languages".
+design/** linguist-vendored
