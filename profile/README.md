@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/sreynosolabs/.github/main/profile/assets/banner.svg" width="100%" alt="sreynosolabs — I build the software your business runs on. Websites, custom apps, integrations and AI automation.">
 </a>
 
-<br><br>
+🌐 **English** · [Español](https://github.com/sreynosolabs/.github/blob/main/profile/README.es.md)
 
 <a href="https://sreynosolabs.com/en/"><img src="https://img.shields.io/badge/web-sreynosolabs.com-0a1628?style=for-the-badge&labelColor=ffb547" alt="Website: sreynosolabs.com"></a>
 <a href="mailto:hola@sreynosolabs.com"><img src="https://img.shields.io/badge/email-hola%40sreynosolabs.com-0a1628?style=for-the-badge&labelColor=5aa0ff" alt="Email: hola@sreynosolabs.com"></a>
@@ -112,40 +112,3 @@ Tell me what your business needs. I'll answer personally and we'll define the sc
 <sub>Made in Peru · Spanish and English</sub>
 
 </div>
-
-<br>
-
-<details>
-<summary><b>🇵🇪 Leer en español</b></summary>
-
-<br>
-
-### Construyo el software con el que funciona tu negocio.
-
-**sreynosolabs** es el estudio de **Sebastián Reynoso**, ingeniero de software en Perú. Diseño y construyo software para negocios, de la primera conversación a producción: **con IA, en días, no en meses**, y sin atajos.
-
-#### Qué construyo
-
-- **Webs de alto impacto:** sitios rápidos, seguros y administrables por ti, diseñados para que tus clientes te encuentren, confíen y te escriban.
-- **Paneles y apps a medida:** facturación, cobros, inventario, indicadores: el sistema que reemplaza al Excel y hace el trabajo exactamente como lo hace tu negocio.
-- **Integraciones entre sistemas y APIs:** conecto tu software con proveedores, plataformas y asistentes de IA para que los datos fluyan solos, con seguridad y sin copiar a mano.
-- **Automatización con IA:** IA integrada donde ahorra tiempo de verdad.
-- **Marca e identidad completa:** logo, manual de marca, brochure, catálogo, cotizaciones, firmas y web, diseñados como un solo sistema.
-
-¿Lo tuyo no está en la lista? Si es software, lo construyo.
-
-#### Cómo trabajo
-
-Entender el negocio → Diseñar → Construir → Probar → Publicar → Capacitar → Acompañar. **Precio cerrado por proyecto, nunca por hora.**
-
-#### Proyectos
-
-Todos los casos, con el problema, las decisiones y el resultado, están en **[sreynosolabs.com](https://sreynosolabs.com/es/#projects)**. Los repositorios son privados porque el código es de cada cliente: te muestro cualquier proyecto en una videollamada.
-
-#### Hablemos de tu proyecto
-
-Cuéntame qué necesita tu negocio; te respondo personalmente y definimos el alcance juntos.
-
-[WhatsApp](https://wa.me/51928799436?text=Hola%20Sebasti%C3%A1n%2C%20te%20encontr%C3%A9%20en%20GitHub%20y%20quiero%20hablar%20de%20un%20proyecto.) · [hola@sreynosolabs.com](mailto:hola@sreynosolabs.com) · [sreynosolabs.com](https://sreynosolabs.com/es/)
-
-</details>

@@ -19,7 +19,7 @@ from fontTools.varLib import instancer
 
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT.parent / "profile" / "assets"
-TEMPLATES = ["banner.svg", "process.svg"]
+TEMPLATES = ["banner.svg", "process.svg", "banner.es.svg", "process.es.svg"]
 
 # Ejes que se conservan de cada fuente variable (el resto queda fijo).
 FONTS = {
